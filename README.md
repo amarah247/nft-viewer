@@ -17,9 +17,9 @@ Token Trinkets is an SPA that displays ethereum NFTs and key information that al
 
 #### Technology Stack:
 
-Next.js
-React
-Reservoir API
+- Next.js
+- React
+- Reservoir API
 
 Clean and Readable Design: Prioritized simplicity and readability in the user interface. Use a minimalistic design with a clear focus on presenting the NFT information to the user. Avoided overwhelming visual effects or excessive styling that could distract from the content.
 Card-Based Layout: Used a card-based layout to display each NFT as a separate card. This organizes the information in a structured manner and allows users to easily scan and browse through the NFTs.
