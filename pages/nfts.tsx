@@ -35,7 +35,7 @@ const NFTViewer = () => {
           'https://api.reservoir.tools/tokens/v6?${query}',
           {
             headers: {
-              Authorization: `Bearer 58093e0a-06fe-5d00-8c48-bcbd29dae3d0`,
+              Authorization: `Bearer YOUR-RESERVOIR-API-KEY`,
             },
             params: {
                 tokens:nftListTokens
